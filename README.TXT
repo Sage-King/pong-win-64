@@ -1,0 +1,1 @@
+Run pong.exe. AD for bottom paddle. JL for top paddle. 0 to reset. ESC to exit.
